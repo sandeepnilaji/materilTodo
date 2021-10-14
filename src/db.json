@@ -1,0 +1,52 @@
+{
+  "todos": [
+    {
+      "titel": "learn html and js",
+      "status": false,
+      "flag": false,
+      "id": 2
+    },
+    {
+      "titel": "just css",
+      "status": false,
+      "flag": false,
+      "id": 3
+    },
+    {
+      "titel": "learn css",
+      "status": false,
+      "flag": false,
+      "id": 5
+    },
+    {
+      "titel": "learn custom hooks",
+      "status": false,
+      "flag": false,
+      "id": 7
+    },
+    {
+      "titel": "learn something",
+      "status": false,
+      "flag": false,
+      "id": 8
+    },
+    {
+      "titel": "learn memo",
+      "status": false,
+      "flag": false,
+      "id": 9
+    },
+    {
+      "titel": "learn react hooks",
+      "status": false,
+      "flag": false,
+      "id": 10
+    },
+    {
+      "titel": "enter text",
+      "status": false,
+      "flag": false,
+      "id": 11
+    }
+  ]
+}
